@@ -1,4 +1,4 @@
 app.log
 pass.json
 
-//ignore these file to commit and protect outsider
+//gitignore file , these file to commit change  and protect outside
