@@ -1,0 +1,4 @@
+app.log
+pass.json
+
+//ignore these file to commit and protect outsider
